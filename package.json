@@ -1,0 +1,19 @@
+{
+  "name": "coincoin",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "grunt start",
+    "test": "grunt test",
+    "lint": "grunt lint"
+  },
+  "author": "Ludow <werwinski@lemonde.fr> (https://github.com/ludow)",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-jshint": "^0.11.0",
+    "grunt-jscs": "^1.5.0"
+  }
+}
