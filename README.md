@@ -1,5 +1,7 @@
 # CoinCoin
 
+[![Build Status](https://travis-ci.org/ludow/coincoin.svg?branch=master)](https://travis-ci.org/ludow/coincoin) [![Dependency Status](https://david-dm.org/ludow/coincoin.svg)](https://david-dm.org/ludow/coincoin) [![Test Coverage](https://codeclimate.com/github/ludow/coincoin/badges/coverage.svg)](https://codeclimate.com/github/ludow/coincoin)
+
 ## Installation
 
 Download to your project directory, add `README.md`, and commit:
